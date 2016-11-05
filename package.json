@@ -1,0 +1,28 @@
+{
+  "name": "vuze",
+  "version": "0.0.0",
+  "description": "vuze dht impl",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reklatsmasters/vuze.git"
+  },
+  "keywords": [
+    "vuze",
+    "dht"
+  ],
+  "author": "Dmitry Tsvettsikh <me@reklatsmasters.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reklatsmasters/vuze/issues"
+  },
+  "homepage": "https://github.com/reklatsmasters/vuze#readme",
+  "dependencies": {
+    "buffer-array": "^1.1.0",
+    "string2compact": "^1.2.2",
+    "vivaldi-coordinates": "^1.0.0"
+  }
+}
